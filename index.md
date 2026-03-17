@@ -1,9 +1,25 @@
 # Sawyer Pangborn
 
-## Lead Software Engineer at Capital One
+![A photo of Sawyer photographing a cycling event](sawyer.png)
 
-Experienced and cutting-edge web developer and web designer with extensive knowledge in XQuery, PHP, Python, HTML5, CSS3, and Javascript. Excels in both creative and logical aspects of software development and design. Open source enthusiast.
+## Software Engineer at Fidelity Investments
+
+Experienced and cutting-edge full stack web developer and web designer with solid UX experience. Excels in both creative and logical aspects of software development and design. Open source enthusiast.
 
 ## Photographer at Sawyer Likes Bikes
 
 Action sports and cycling photography.
+
+## Personal Projects
+
+### Transit Lens
+
+![A screenshot of Transit Lens](transit-lens.png)
+
+A project to consume and display GTFS and GTFS Real Time data from various transit organizations using an Angular frontend. Built out of a curiosity to understand an entire transit system and the way GTFS works.
+
+### Watcher in the Sky
+
+![A screenshot of a Bluesky post of an imaging/survey flight detected by the bot](watcher.png)
+
+A Bluesky bot leveraging public ADS-B data to post about aircraft that are circling or flying imaging/survery flight patterns in the Salt Lake City area. Posts to Bluesky at [@skycirclesslc.bsky.app](https://bsky.app/profile/did:plc:wj3ngreim3s6cqlwqszdl3lo).
